@@ -1,0 +1,2 @@
+var g_data = {"26":{"cvpc":[{"h":["ADDR",4,1,27],"cov":[10,10,100.00],"opts":{"goal":"100"}},{"h":["DATA",4,1,28],"cov":[10,10,100.00],"opts":{"goal":"100"}},{"h":["PORT",4,1,29],"cov":[2,2,100.00],"opts":{"goal":"100"}},{"h":["OPER",4,1,30],"cov":[2,2,100.00],"opts":{"goal":"100"}},{"h":["ADDR_X_DATA_X_PORT_X_OPER",8,1,31],"cov":[400,200,50.00],"opts":{"goal":"100"},"cvps":["ADDR","DATA","PORT","OPER"]}],"cvg":["/top_sv_unit/func_coverage/coverage",1],"cvgdata":[24,24,400,200]}};
+processCoverpointsData(g_data);

@@ -1,0 +1,417 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.2_1 2021.05, May 15 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/proj/MEM_VERF/Basava/sim
+T_opt
+Z2 !s11d top_sv_unit /proj/MEM_VERF/basava_tb/basava/sim/work 1 intf 1 /proj/MEM_VERF/basava_tb/basava/sim/work 
+!s110 1727158731
+VaaanzPM[AlFKgY2R3mcZA1
+Z3 04 3 4 work top fast 0
+=1-000ae431a4f1-66f259cb-d62c3-1a1f
+Z4 !s124 OEM100
+Z5 o-quiet -auto_acc_if_foreign -work work +acc
+Z6 tCvgOpt 0
+n@_opt
+Z7 OL;O;2021.2_1;73
+T_opt1
+!s11d NOV_22_sv_unit /proj/MEM_VERF/Basava/sim/work 1 intf 1 /proj/MEM_VERF/Basava/sim/work 
+!s110 1723540759
+V0[`5e5N;g]M8<Ld:AP=oL1
+04 3 4 work t22 fast 0
+=1-000ae431a4f1-66bb2517-b2fcc-32dd
+R4
+R5
+R6
+n@_opt1
+R7
+R1
+T_opt2
+R2
+!s110 1727072767
+VMGe=`Ydm;6CaS;^6_3;E23
+R3
+=1-000ae431a4f1-66f109ff-86895-1e7f
+R4
+R5
+R6
+n@_opt2
+R7
+R1
+vcontroller
+Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z9 !s110 1727158725
+!i10b 1
+!s100 CE`eCMnfLO?FL^4D>WEgH0
+IViIc>;0coH57n<@[oZmZ01
+S1
+Z10 d/proj/MEM_VERF/basava_tb/basava/sim
+Z11 w1727084046
+8../rtl/Controller_V3.sv
+F../rtl/Controller_V3.sv
+!i122 150
+L0 18 36
+Z12 VDg1SIo80bB@j0V0VzS_@n1
+Z13 OL;L;2021.2_1;73
+r1
+!s85 0
+31
+Z14 !s108 1727158725.000000
+Z15 !s107 ../rtl/sub_sys_V3.sv|../rtl/memory_V3.sv|../rtl/mem_bank_V3.sv|../rtl/encoder_V3.sv|../rtl/decoder_V3.sv|../rtl/Controller_V3.sv|
+Z16 !s90 -reportprogress|300|-sv|../rtl/Controller_V3.sv|../rtl/decoder_V3.sv|../rtl/encoder_V3.sv|../rtl/mem_bank_V3.sv|../rtl/memory_V3.sv|../rtl/sub_sys_V3.sv|+cover|
+!i113 0
+Z17 !s102 +cover
+Z18 o-sv +cover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R6
+vde_code
+R8
+R9
+!i10b 1
+!s100 =2gRnHLVg6fa>ia8JnVBS2
+I;`4j>ESK3=OMk@5j;JlPG1
+S1
+R10
+R11
+8../rtl/decoder_V3.sv
+F../rtl/decoder_V3.sv
+!i122 150
+L0 14 45
+R12
+R13
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 0
+R17
+R18
+R6
+vdual_port
+R8
+R9
+!i10b 1
+!s100 BOIYH0XdQ>:16=ZT_geRU3
+I:4d^8X;l7emb:32j_Y<XP3
+S1
+R10
+R11
+8../rtl/memory_V3.sv
+F../rtl/memory_V3.sv
+!i122 150
+L0 43 149
+R12
+R13
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 0
+R17
+R18
+R6
+ven_code
+R8
+R9
+!i10b 1
+!s100 ;fWe`F;m7Cnb[b^khgMVN0
+IX3XZWV1gfVgQEzh<P_eCC3
+S1
+R10
+R11
+8../rtl/encoder_V3.sv
+F../rtl/encoder_V3.sv
+!i122 150
+L0 12 14
+R12
+R13
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 0
+R17
+R18
+R6
+Yintf
+R8
+Z19 DXx4 work 4 pack 0 22 TL03YDIo?n9YD293e_5Q70
+Z20 DXx4 work 11 top_sv_unit 0 22 cnNO=]zOmdkDOJMka65jJ1
+R9
+R12
+r1
+!s85 0
+!i10b 1
+!s100 hZzAkNG<TS6<`0LXi`89T3
+IgJ9S?jU=NElh5a>i=55d[0
+Z21 !s105 top_sv_unit
+S1
+R10
+Z22 w1727158722
+Z23 8../tb/top.sv
+Z24 F../tb/top.sv
+!i122 151
+L0 739 0
+R13
+31
+R14
+Z25 !s107 ../tb/top.sv|
+Z26 !s90 -reportprogress|300|-sv|../tb/top.sv|
+!i113 0
+Z27 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R6
+vmemory_bank
+R8
+R9
+!i10b 1
+!s100 2_jUWzBS1IL=H]g9IA@z;3
+IY>DMR]HPReR`NYb?emTJY0
+S1
+R10
+w1727154177
+8../rtl/mem_bank_V3.sv
+F../rtl/mem_bank_V3.sv
+!i122 150
+L0 48 157
+R12
+R13
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 0
+R17
+R18
+R6
+XNOV_22_sv_unit
+Z28 !s115 intf
+R8
+Z29 DXx4 work 4 pack 0 22 k6gKBPkTI>5c8lV:d91FR1
+Z30 !s110 1723540758
+VajjB<MDENIgcOh]N;UTg23
+r1
+!s85 0
+!i10b 1
+!s100 Wck42M<`?hSF1U@UXIFn91
+IajjB<MDENIgcOh]N;UTg23
+!i103 1
+S1
+R1
+Z31 w1723540442
+Z32 8../tb/NOV_22.sv
+Z33 F../tb/NOV_22.sv
+!i122 7
+Z34 L0 13 0
+R13
+31
+Z35 !s108 1723540758.000000
+Z36 !s107 ../tb/NOV_22.sv|
+Z37 !s90 -reportprogress|300|-sv|../tb/NOV_22.sv|
+!i113 0
+R27
+R6
+n@n@o@v_22_sv_unit
+Xpack
+R8
+R9
+!i10b 1
+!s100 P4k1JYl;d[3ea1Q2NDJMQ0
+ITL03YDIo?n9YD293e_5Q70
+S1
+R10
+R22
+R23
+R24
+!i122 151
+L0 5 0
+VTL03YDIo?n9YD293e_5Q70
+R13
+r1
+!s85 0
+31
+R14
+R25
+R26
+!i113 0
+R27
+R6
+vsub_system
+R8
+R9
+!i10b 1
+!s100 lVNDM_9B1cQ3jFaVPW2_]2
+IzBa_H2T@1O@UNC]7=F8B@0
+S1
+R10
+R11
+8../rtl/sub_sys_V3.sv
+F../rtl/sub_sys_V3.sv
+!i122 150
+L0 56 63
+R12
+R13
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 0
+R17
+R18
+R6
+vt22
+R8
+R29
+DXx4 work 14 NOV_22_sv_unit 0 22 ajjB<MDENIgcOh]N;UTg23
+R30
+R12
+r1
+!s85 0
+!i10b 1
+!s100 6ccM;9@;1DIOSfJ<dL^HW2
+I:6_6_<YN@D=Jc=K``Ug9L2
+!s105 NOV_22_sv_unit
+S1
+R1
+R31
+R32
+R33
+!i122 7
+L0 571 29
+R13
+31
+R35
+R36
+R37
+!i113 0
+R27
+R6
+vtop
+R8
+R19
+R20
+R9
+R12
+r1
+!s85 0
+!i10b 1
+!s100 P5z]E`S3cn??XNXHLI;361
+IMdAdYTcB8D9mNIf2LT9jS0
+R21
+S1
+R10
+R22
+R23
+R24
+!i122 151
+L0 651 87
+R13
+31
+R14
+R25
+R26
+!i113 0
+R27
+R6
+Xtop_sv_unit
+R28
+R8
+R19
+R9
+VcnNO=]zOmdkDOJMka65jJ1
+r1
+!s85 0
+!i10b 1
+!s100 M`C4PacjmDDF^GF8MF_201
+IcnNO=]zOmdkDOJMka65jJ1
+!i103 1
+S1
+R10
+R22
+R23
+R24
+!i122 151
+R34
+R13
+31
+R14
+R25
+R26
+!i113 0
+R27
+R6

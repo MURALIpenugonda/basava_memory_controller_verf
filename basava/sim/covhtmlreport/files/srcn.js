@@ -1,0 +1,2 @@
+var g_data = ["","../tb/top.sv","../rtl/sub_sys_V3.sv","../rtl/Controller_V3.sv","../rtl/encoder_V3.sv","../rtl/decoder_V3.sv","../rtl/mem_bank_V3.sv","../rtl/memory_V3.sv"];
+processSrcNamesData(g_data);

@@ -1,0 +1,2 @@
+var g_data = {"27":["auto[0:5]","auto[6:11]","auto[12:17]","auto[18:23]","auto[24:29]","auto[30:35]","auto[36:41]","auto[42:47]","auto[48:53]","auto[54:63]"],"28":["auto[0:24]","auto[25:49]","auto[50:74]","auto[75:99]","auto[100:124]","auto[125:149]","auto[150:174]","auto[175:199]","auto[200:224]","auto[225:255]"],"29":["auto[PORT_B]","auto[PORT_A]"],"30":["auto[WRITE]","auto[READ]"]};
+processCoverpointsMapData(g_data);
